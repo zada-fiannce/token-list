@@ -2,7 +2,7 @@
   "name": "@scroll-layer2/token-lists",
   "author": "scroll",
   "description": "Token list specification",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=10"
   },

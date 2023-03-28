@@ -1,8 +1,8 @@
 {
   "name": "Zada",
-  "logoURI": "https://scroll-io.netlify.app/imgs/home/logo.png",
+  "logoURI": "http://www.zadafinance.com/zda-logo.png",
   "keywords": ["scaling", "layer2", "infrastructure"],
-  "timestamp": "2022-12-13T11:55:01.869Z",
+  "timestamp": "2023-02-13T11:55:01.869Z",
   "tokens": [
     {
       "chainId": 534353,
@@ -10,7 +10,7 @@
       "name": "Zada",
       "symbol": "ZDA",
       "decimals": 18,
-      "logoURI": "https://scroll-io.netlify.app/swap/images/usd-coin.png"
+      "logoURI": "http://www.zadafinance.com/zda-logo.png"
     },
     {
       "chainId": 534353,
@@ -18,7 +18,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://scroll-io.netlify.app/swap/images/weth.png"
+      "logoURI": "http://www.zadafinance.com/weth-logo.png"
     },
     {
       "chainId": 534353,
@@ -26,12 +26,12 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://scroll-io.netlify.app/swap/images/usd-coin.png"
+      "logoURI": "http://www.zadafinance.com/usdc-logo.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
